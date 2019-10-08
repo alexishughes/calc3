@@ -508,3 +508,7 @@ Well if I used StringTokenizer that would help a lot.
 ##### Next step: code it!!!
 
 Actually, it might be possible to include operator precedence in the parsing stage.
+
+###### News as at 2019-10-08 StreamTokenizer and StringTokenizer are deprecated.
+
+Oh well, will have to use Regex and possibly Scanner.
