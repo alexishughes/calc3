@@ -511,4 +511,5 @@ Actually, it might be possible to include operator precedence in the parsing sta
 
 ###### News as at 2019-10-08 StreamTokenizer and StringTokenizer are deprecated.
 
-Oh well, will have to use Regex and possibly Scanner.
+Oh well, will have to use Regex and possibly Scanner. I found out some info on Lex, Yacc and Jack bu tI think I will 
+have to write a Parser with nested if statements.
